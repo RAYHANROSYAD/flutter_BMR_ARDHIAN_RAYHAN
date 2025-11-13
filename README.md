@@ -3,7 +3,7 @@
 ## Tampilan Aplikasi
 
 <p align="center">
-  <img src="flutter_application_3/gambar/keluaran.jpg" width="300">
+  <img src="flutter_aplikasi_3/gambar/keluaran.jpg" width="300">
 </p>
 
 ---
@@ -24,5 +24,6 @@ Menjaga pola makan sehat
 Menentukan kebutuhan kalori harian
 
 ---
+
 
 
