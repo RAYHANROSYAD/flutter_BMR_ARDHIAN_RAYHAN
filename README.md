@@ -11,6 +11,7 @@
 ## Nama Kelompok
 
 - *Ardhian Purnomo (K3523016)*
+- *Muhammad Abdul Aziz Al-Amiri (K3523046)*
 - *Rayhan Rosyad (K3523062)*
 
 ---
@@ -24,6 +25,7 @@ Menjaga pola makan sehat
 Menentukan kebutuhan kalori harian
 
 ---
+
 
 
 
